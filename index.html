@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Amin K. — Portfolio</title>
+  <meta name="description" content="Amin K — Machine learning enthusiast. Portfolio showcasing projects in NLP, IoT, and AI." />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" href="favicon.ico" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="#">Amin K.</a>
+      <nav class="nav" id="nav">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+        <a class="cta" href="#contact">Hire / Contact</a>
+        <button id="nav-toggle" aria-label="Toggle navigation">☰</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="hero" class="hero container">
+      <div class="hero-content">
+        <h1>Hi, I’m Amin K. 👋</h1>
+        <p class="lead">Machine learning & NLP enthusiast. Building AI-powered solutions and exploring IoT.</p>
+        <p>Email: <a href="mailto:akjunayd@gmail.com">akjunayd@gmail.com</a></p>
+        <div class="hero-actions">
+          <a class="btn" href="#projects">View Projects</a>
+          <a class="btn btn-outline" href="resume.pdf" target="_blank">Resume</a>
+        </div>
+      </div>
+      <div class="hero-image" aria-hidden="true">
+        <!-- Replace with your photo or illustration -->
+        <div class="avatar">AK</div>
+      </div>
+    </section>
+
+    <section id="about" class="about container">
+      <h2>About</h2>
+      <p>I’m interested in machine learning models, NLP, and IoT. I’m currently learning AI and a lot about life — always eager to collaborate on innovative projects.</p>
+      <p>Pronouns: Her / She</p>
+    </section>
+
+    <section id="projects" class="projects container">
+      <h2>Projects</h2>
+      <div class="projects-grid">
+        <article class="project-card">
+          <h3>Project One</h3>
+          <p>Short description of a project (NLP, model, or app). Replace with real project details and link.</p>
+          <p class="muted">Tech: Python · PyTorch · NLP</p>
+          <a class="project-link" href="#" target="_blank">View repo →</a>
+        </article>
+
+        <article class="project-card">
+          <h3>Project Two</h3>
+          <p>Short description of an IoT or hardware project.</p>
+          <p class="muted">Tech: Arduino · MQTT</p>
+          <a class="project-link" href="#" target="_blank">View repo →</a>
+        </article>
+
+        <article class="project-card">
+          <h3>Project Three</h3>
+          <p>Another project or demo. Add screenshots in the repo / images folder and link here.</p>
+          <p class="muted">Tech: Flask · Docker</p>
+          <a class="project-link" href="#" target="_blank">View demo →</a>
+        </article>
+      </div>
+    </section>
+
+    <section id="skills" class="skills container">
+      <h2>Skills</h2>
+      <ul class="skills-list">
+        <li>Python · Machine Learning · NLP</li>
+        <li>PyTorch · TensorFlow</li>
+        <li>IoT · MQTT · Embedded</li>
+        <li>Docker · Bash · Linux</li>
+      </ul>
+    </section>
+
+    <section id="contact" class="contact container">
+      <h2>Contact</h2>
+      <p>Interested in collaborating or hiring? Send me a message — or email at <a href="mailto:akjunayd@gmail.com">akjunayd@gmail.com</a>.</p>
+      <form id="contact-form" action="https://formspree.io/f/your-form-id" method="POST">
+        <label>
+          <span>Name</span>
+          <input name="name" required />
+        </label>
+        <label>
+          <span>Email</span>
+          <input name="_replyto" type="email" required />
+        </label>
+        <label>
+          <span>Message</span>
+          <textarea name="message" rows="4" required></textarea>
+        </label>
+        <button class="btn" type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> Amin K. · <a href="https://github.com/AminKJun">GitHub</a></p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
