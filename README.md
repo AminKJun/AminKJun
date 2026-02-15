@@ -1,13 +1,3 @@
-You don't write anything! I already wrote it for you in **Step 4** above. 
-
-Just **copy the entire code block** (the big gray box that starts with `cat > README.md` and ends with `EOF`) and paste it into your terminal.
-
-That command will automatically create the README file with all the text I wrote for you.
-
-
-
-**If you want to see what I wrote before running it**, here's the actual content that will go in your README:
-
 # Hi, I'm Armeen 👋
 
 **AI & Data Consultant | Biomedical Sciences & AI Background**
