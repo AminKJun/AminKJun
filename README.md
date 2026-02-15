@@ -2,7 +2,7 @@
 
 **AI & Data Consultant | Biomedical Sciences & AI Background**
 
-I specialize in applying machine learning and data analysis to solve real-world problems in **pharma**, **healthcare**, and **regulated industries**. With a Master's in AI and a background in Biomedical Sciences, I bridge technical expertise with strategic problem-solving.
+I specialize in applying machine learning and data analysis to solve real-world problems in **pharma**, **healthcare** and **regulated industries**. With a Master's in AI and a background in Biomedical Sciences, I bridge technical expertise with strategic problem-solving.
 
 
 ## 🎯 What I Do
@@ -20,7 +20,7 @@ I specialize in applying machine learning and data analysis to solve real-world 
 
 ## 📂 Featured Projects
 
-🚧 *Portfolio projects coming soon — showcasing end-to-end ML solutions for pharma, healthcare, and business analytics.*
+🚧 *Portfolio projects coming soon, showcasing end-to-end ML solutions for pharma, healthcare and business analytics.*
 
 
 ## 📫 Let's Connect
